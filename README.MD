@@ -12,7 +12,7 @@ This work is based on the dataset and benchmark introduced in:
 
 The dataset includes 100000 joint configurations and corresponding 6-DOF sensor measurements from a three-tube CTCR, captured using an electromagnetic tracking system. It is publicly available on GitHub:
 
-🔗 [CRL-Dataset-CTCR-Pose on GitHub](https://github.com/ContinuumRoboticsLab/CRL-Dataset-CTCR-Pose) [2](https://ieeexplore.ieee.org/author/37282378800)
+🔗 [CRL-Dataset-CTCR-Pose on GitHub](https://github.com/ContinuumRoboticsLab/CRL-Dataset-CTCR-Pose)
 
 ## Models Used
 
